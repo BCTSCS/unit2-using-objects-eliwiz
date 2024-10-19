@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=x\ y
+comment1.target=void\ add(double,\ double)
+comment1.text=\ This\ class\ doesn't\ need\ instance\ variable\ or\r\n\ a\ constructor.\ You\ can\ create\ the\ same\ way\r\n\ you\ create\ other\ objects,\ using\ empty\r\n\ parenthesis.\r\n\ Calculator\ c\ \=\ new\ Calculator();\r\n\r\n
+comment2.params=x\ y
+comment2.target=void\ multiply(double,\ double)
+comment3.params=x\ y
+comment3.target=void\ divide(double,\ double)
+comment4.params=x\ y
+comment4.target=void\ subtract(double,\ double)
+numComments=5
