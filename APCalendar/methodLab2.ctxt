@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=methodLab2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ methodLab2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=methodLab2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ methodLab2\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=initial\ stop\ inc
+comment3.target=void\ forLoop(int,\ int,\ int)
+comment4.params=total
+comment4.target=void\ whileLoop(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
